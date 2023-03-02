@@ -1,0 +1,40 @@
+<resources>
+    <!-- Название программы -->
+    <string name="app_name">Lab3_var13_Rudenko</string>
+
+    <!-- Текстовые константы -->
+    <string name="Женщина">Женщина</string>
+    <string name="Укажите_пол">Укажите пол:</string>
+    <string name="Ваша_стана">Ваша страна:</string>
+    <string name="ИТОГО">ИТОГО</string>
+    <string name="Сводные_данные">Сводные данные:</string>
+    <string name="Назад">Назад</string>
+    <string name="Выход">Выход</string>
+    <string name="Ваш_пол">Ваш пол:</string>
+    <string name="Страна">Страна</string>
+    <string name="Ваше_ФИО">Ваше ФИО</string>
+    <string name="мужчина">мужчина</string>
+    <string name="Выберите_цвет">Выберите цвет </string>
+    <string name="Черный">Черный</string>
+    <string name="Белый">Белый</string>
+    <string name="Красный">Красный</string>
+    <string name="Синий">Синий</string>
+    <string name="Фиолетовый">Фиолетовый</string>
+    <string name="Мужчина">Мужчина</string>
+    <string name="модель1">Модель:</string>
+    <string name="Итоговы_данные">Итоговые данные:</string>
+    <string name="Переход">Переход</string>
+    <string name="Введите_данные">Введите данные</string>
+    <string name="Далее">Далее</string>
+    <string name="Отправить">Отправить</string>
+
+    <!-- Массив строк -->
+    <string-array name="country_arrays">
+        <item>Казахстан</item>
+        <item>Россия</item>
+        <item>Америка</item>
+        <item>Германия</item>
+        <item>Франция</item>
+    </string-array>
+
+</resources>
